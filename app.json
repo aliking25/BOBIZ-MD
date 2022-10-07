@@ -1,15 +1,15 @@
 {
-    "name": "BOBIZ - MD",
-    "description": "BOBIZMD  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg",
+    "name": "Ali-King",
+    "description": "ALI-KING  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://www.linkpicture.com/q/Screenshot_20221007-101605.png",
     "keywords": ["whatsapp", "userbot", "bobiz", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/bobizbotmd/BOBIZ-MD",
+    "repository": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3",
     "website":   "",
     "success_url": "",
     "stack": "container",
      "env": {
             "BOBIZ_SESSION": {
-            "description": "qr session code",
+            "description": "BOBIZ-SESSION=99InGDIS#TcfofN-iXIVB6c2WPiURrGijiWeB4szzJetgbhd9Yi8",
             "required": true
              },
              
@@ -31,18 +31,18 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/bobizbotmd/BOBIZ-MD" ,
+            "value": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3" ,
             "required": true
       },
       
       "ALIVE_MESSAGE": {
-            "description": "add text",
+            "description": "Hy I'm alive",
             "value": "defaul", 
             "required": true
       },
       "ALIVE_LOGO": {
             "description": "add direct image url",
-            "value": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg" ,
+            "value": "https://www.linkpicture.com/q/Screenshot_20221007-101605.png" ,
             "required": true
       },
      
